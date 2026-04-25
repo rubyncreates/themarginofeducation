@@ -1,10 +1,10 @@
 ---
-layout: post.njk
 title: About
 permalink: /about/
+layout: post.njk
 date: 2026-04-25T00:00:00.000Z
 ---
-![](/assets/images/self-photo.jpg)
+<img src="/assets/images/self-photo.jpg" alt="Portrait of Ruby" class="img-left">
 
 *On the idea that an education happens mostly in the margins.*
 
