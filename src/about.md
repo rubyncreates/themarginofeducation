@@ -4,11 +4,11 @@ permalink: /about/
 layout: post.njk
 date: 2026-04-25T00:00:00.000Z
 ---
+*Margin of education articulates the idea that one's education happens mostly in the margins.*
+
 <p class="lang-switcher"><a href="#en">English</a> · <a href="#ja">日本語</a> · <a href="#vi">Tiếng Việt</a></p>
 
 <h2 id="en">English</h2>
-
-*On the idea that an education happens mostly in the margins.*
 
 The most formative parts of an education rarely fit on a transcript. They happen in the margins: in the conversations after class, in the projects that begin as side interests, in the studio, the field, the staffroom, the second language, the unfamiliar country. They happen in the slow accumulation of practice, doubt, revision, and care. Mass schooling, coursework, and research are scaffolds.
 
