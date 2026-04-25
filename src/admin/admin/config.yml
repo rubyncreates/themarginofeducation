@@ -2,7 +2,7 @@ backend:
   name: github
   repo: rubyncreates/themarginofeducation
   branch: main
-  base_url: https://decap-proxy.YOUR-USERNAME.workers.dev
+  base_url: https://decap-proxy.rubyncreates.workers.dev
   auth_endpoint: auth
 
 media_folder: "src/assets/images"
