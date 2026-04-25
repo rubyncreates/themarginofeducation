@@ -2,7 +2,7 @@
 title: About
 permalink: /about/
 layout: post.njk
-date: 2026-04-25T00:00:00.000Z
+date: 2026-04-25
 ---
 *Margin of Education articulates the idea that one's education happens mostly in the margins.*
 
