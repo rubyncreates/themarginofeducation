@@ -1,26 +1,29 @@
 ---
 layout: base.njk
-title: The Margin — Writing on the side
+title: The Margin of Education
 ---
 <div class="container container--narrow">
-  <section class="intro">
-    <h1 class="intro-headline">Notes from the margin.</h1>
-    <p class="intro-lede">A small collection of writing — half-finished thoughts, longer essays, and the occasional photograph. Updated whenever something feels worth saying.</p>
+  <section class="manifesto">
+    <p class="manifesto-eyebrow">A blog by Ruby Nguyen</p>
+    <h1 class="manifesto-headline">Notes from the margin of education.</h1>
+    <p class="manifesto-lede">The most formative parts of an education rarely fit on a transcript. They happen in the margins: in the conversations after class, in the projects that begin as side interests, in the studio, the field, the staffroom, the second language, the unfamiliar country. They happen in the slow accumulation of practice, doubt, revision, and care. Mass schooling, coursework, and research are scaffolds. The actual building of one's mind is something else.</p>
+    <p class="manifesto-lede">This is a public record of that something else &mdash; a relational pedagogy of <a href="/mind/">mind</a>, <a href="/media/">media</a>, and <a href="/machines/">machines</a>.</p>
   </section>
 
   <section class="post-list">
     <h2 class="post-list-heading"><span>Recent</span></h2>
     {% set postslist = collections.posts | reverse %}
     {% if postslist.length === 0 %}
-      <p class="empty-state">No posts yet — but soon.</p>
+      <p class="empty-state">No posts yet &mdash; but soon.</p>
     {% else %}
       <ol class="posts">
-        {% for post in postslist %}
+        {% for post in postslist | slice(6) %}
           <li class="post-item">
             <a href="{{ post.url }}" class="post-link">
               <time datetime="{{ post.date | htmlDateString }}" class="post-item-date">{{ post.date | readableDate }}</time>
               <h3 class="post-item-title">{{ post.data.title }}</h3>
               {% if post.data.subtitle %}<p class="post-item-subtitle">{{ post.data.subtitle }}</p>{% endif %}
+              {% if post.data.category %}<p class="post-item-category">{{ post.data.category }}</p>{% endif %}
             </a>
           </li>
         {% endfor %}
