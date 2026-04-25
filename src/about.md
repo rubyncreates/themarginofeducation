@@ -4,11 +4,10 @@ permalink: /about/
 layout: post.njk
 date: 2026-04-25T00:00:00.000Z
 ---
-<img src="/assets/images/self-photo.jpg" alt="Portrait of Ruby" class="img-left">
-
 *On the idea that an education happens mostly in the margins.*
 
-The most formative parts of an education rarely fit on a transcript. They happen in the margins: in the conversations after class, in the projects that begin as side interests, in the studio, the field, the staffroom, the second language, the unfamiliar country. They happen in the slow accumulation of practice, doubt, revision, and care. Mass schooling, coursework, and research are scaffolds. 
+<img src="/assets/images/self-photo.jpg" alt="Portrait of Ruby" class="img-left img-portrait">
+<p class="no-dropcap">The most formative parts of an education rarely fit on a transcript. They happen in the margins: in the conversations after class, in the projects that begin as side interests, in the studio, the field, the staffroom, the second language, the unfamiliar country. They happen in the slow accumulation of practice, doubt, revision, and care. Mass schooling, coursework, and research are scaffolds.</p>
 
 The actual building of one's mind is something else.
 
@@ -22,13 +21,13 @@ That's the formal sketch. The fuller one is more layered. I've been a teacher an
 
 None of those threads are separable from the others. The artist's eye shows up in how I design a learning experience. The counsellor's training shows up in how I think about feedback. The researcher's discipline shows up in how I evaluate a tool before I recommend it. This blog is partly an effort to stop pretending those threads are separate.
 
-#### Why now
+## Why now
 
 We are living through a moment where the question *what is an education for?* has stopped being rhetorical. Generative AI can produce a competent essay in seconds. It can pass exams, write code, summarise readings, and mimic the surface features of expertise. What it cannot do is decide what is worth caring about. It cannot mentor a student through their first ethical dilemma. It cannot hold space for a pre-service teacher through a hard placement. It cannot model what it means to be a person of practice, of conscience, of curiosity.
 
 If anything, this moment has clarified the stakes. The parts of education that *cannot* be automated are precisely the parts that have always lived in the margins: the human, relational, embodied, ethical, creative work that institutions sometimes recognise and sometimes don't. Defending and developing those parts feels, to me, like the central work of educators now. Not resisting AI, but using it wisely, knowing what it's for and what it's not, while protecting and deepening everything that makes a teacher more than a content-delivery system, and a student more than a test-taker.
 
-#### What lives here
+## What lives here
 
 Expect a mix. Notes from projects in progress. Reflections on assessment reform, academic development, and what actually helps teaching staff grow. Pieces about working across cultures and disciplines. Occasional dispatches from the studio. Honest accounts of things I'm still working out. And I hope collaborative pieces with colleagues whose voices belong here too. Educators grow each other. That has always been true, and it has never mattered more.
 
