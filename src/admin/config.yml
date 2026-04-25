@@ -20,6 +20,16 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Subtitle", name: "subtitle", widget: "string", required: false }
       - { label: "Publish Date", name: "date", widget: "datetime" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options: ["Mind", "Media", "Machines"]
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        required: false
+        default: []
+        hint: "Add the lowercase category as the first tag (e.g. mind, media, machines), then any further freeform tags."
       - { label: "Body", name: "body", widget: "markdown" }
 
   - name: "pages"
@@ -33,4 +43,5 @@ collections:
           - { label: "Permalink", name: "permalink", widget: "hidden", default: "/about/" }
           - { label: "Layout", name: "layout", widget: "hidden", default: "post.njk" }
           - { label: "Date", name: "date", widget: "hidden", default: "2026-04-25" }
+          - { label: "Hide Category", name: "hide_category", widget: "hidden", default: true }
           - { label: "Body", name: "body", widget: "markdown" }
