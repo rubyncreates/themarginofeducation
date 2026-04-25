@@ -1,0 +1,32 @@
+---
+layout: base.njk
+title: Machines &mdash; The Margin of Education
+permalink: /machines/
+---
+<div class="container container--narrow">
+  <section class="category-intro">
+    <p class="category-eyebrow">Category</p>
+    <h1 class="category-headline">Machines</h1>
+    <p class="category-lede">The technical and computational layer of education. Generative AI, EdTech, the instruments that increasingly mediate teaching. Not whether to use them, but how, why, and what they do to the work of learning.</p>
+  </section>
+
+  <section class="post-list">
+    <h2 class="post-list-heading"><span>Posts in Machines</span></h2>
+    {% set postslist = collections.machines | reverse %}
+    {% if postslist.length === 0 %}
+      <p class="empty-state">No posts in this category yet.</p>
+    {% else %}
+      <ol class="posts">
+        {% for post in postslist %}
+          <li class="post-item">
+            <a href="{{ post.url }}" class="post-link">
+              <time datetime="{{ post.date | htmlDateString }}" class="post-item-date">{{ post.date | readableDate }}</time>
+              <h3 class="post-item-title">{{ post.data.title }}</h3>
+              {% if post.data.subtitle %}<p class="post-item-subtitle">{{ post.data.subtitle }}</p>{% endif %}
+            </a>
+          </li>
+        {% endfor %}
+      </ol>
+    {% endif %}
+  </section>
+</div>
