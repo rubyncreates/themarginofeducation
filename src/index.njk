@@ -1,0 +1,30 @@
+---
+layout: base.njk
+title: The Margin — Writing on the side
+---
+<div class="container container--narrow">
+  <section class="intro">
+    <h1 class="intro-headline">Notes from the margin.</h1>
+    <p class="intro-lede">A small collection of writing — half-finished thoughts, longer essays, and the occasional photograph. Updated whenever something feels worth saying.</p>
+  </section>
+
+  <section class="post-list">
+    <h2 class="post-list-heading"><span>Recent</span></h2>
+    {% set postslist = collections.posts | reverse %}
+    {% if postslist.length === 0 %}
+      <p class="empty-state">No posts yet — but soon.</p>
+    {% else %}
+      <ol class="posts">
+        {% for post in postslist %}
+          <li class="post-item">
+            <a href="{{ post.url }}" class="post-link">
+              <time datetime="{{ post.date | htmlDateString }}" class="post-item-date">{{ post.date | readableDate }}</time>
+              <h3 class="post-item-title">{{ post.data.title }}</h3>
+              {% if post.data.subtitle %}<p class="post-item-subtitle">{{ post.data.subtitle }}</p>{% endif %}
+            </a>
+          </li>
+        {% endfor %}
+      </ol>
+    {% endif %}
+  </section>
+</div>
