@@ -1,39 +1,16 @@
 ---
-title: How to write a new post
-subtitle: Everything you need to know in five minutes.
-date: 2026-04-25
+title: On the eye that learns
+subtitle: A placeholder for writing about media in education.
+date: 2026-04-21
+category: Media
+tags:
+  - media
+  - film
+  - placeholder
 ---
 
-Welcome to your blog. This post itself is an example you can copy and modify. Every post lives in `src/posts/` as a Markdown file — that's it. No database, no admin login, no plugins to update.
+Some things get taught between the words. A film lingers because of a single frame. A photograph teaches more than a paragraph could. The textile knows things the syllabus doesn't.
 
-## The basic structure
+This is a placeholder for the first entry under *Media*. Future pieces in this category will think about what gets carried in form — film as pedagogy, image as curriculum, the studio as classroom, multimodal teaching as a way of taking media seriously.
 
-At the top of every post file, there's a small block of metadata between two `---` lines. That's called frontmatter, and it sets the title, subtitle, and date. After that, you just write.
-
-You can use **bold**, *italic*, [links](https://example.com), and lists:
-
-- One thing
-- Another thing
-- A third thing
-
-Or numbered lists, blockquotes, headings — anything Markdown supports.
-
-## Adding images
-
-Drop an image file into `src/assets/images/`, then reference it like this:
-
-```markdown
-![A caption describing the image](/assets/images/your-photo.jpg)
-```
-
-The image will appear inline in your post, sized responsively for any screen.
-
-> Tip: keep image filenames lowercase and use hyphens instead of spaces. `morning-light.jpg` works; `Morning Light.jpg` will cause headaches.
-
-## Code, quotes, and dividers
-
-You can use `inline code` like that, or a horizontal rule for a section break:
-
----
-
-That's everything you need. To create your next post, just copy this file, rename it, change the frontmatter, and start writing.
+More soon.
