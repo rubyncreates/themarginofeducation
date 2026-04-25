@@ -1,6 +1,9 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: rubyncreates/themarginofeducation
   branch: main
+  base_url: https://decap-proxy.YOUR-USERNAME.workers.dev
+  auth_endpoint: auth
 
 media_folder: "src/assets/images"
 public_folder: "/assets/images"
