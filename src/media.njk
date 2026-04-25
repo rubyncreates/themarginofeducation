@@ -1,0 +1,32 @@
+---
+layout: base.njk
+title: Media &mdash; The Margin of Education
+permalink: /media/
+---
+<div class="container container--narrow">
+  <section class="category-intro">
+    <p class="category-eyebrow">Category</p>
+    <h1 class="category-headline">Media</h1>
+    <p class="category-lede">The cultural and visual layer of education. Film, image, text, multimodality. How meaning travels through forms, and what gets taught between the words. Studio practice and the things made by hand also live here.</p>
+  </section>
+
+  <section class="post-list">
+    <h2 class="post-list-heading"><span>Posts in Media</span></h2>
+    {% set postslist = collections.media | reverse %}
+    {% if postslist.length === 0 %}
+      <p class="empty-state">No posts in this category yet.</p>
+    {% else %}
+      <ol class="posts">
+        {% for post in postslist %}
+          <li class="post-item">
+            <a href="{{ post.url }}" class="post-link">
+              <time datetime="{{ post.date | htmlDateString }}" class="post-item-date">{{ post.date | readableDate }}</time>
+              <h3 class="post-item-title">{{ post.data.title }}</h3>
+              {% if post.data.subtitle %}<p class="post-item-subtitle">{{ post.data.subtitle }}</p>{% endif %}
+            </a>
+          </li>
+        {% endfor %}
+      </ol>
+    {% endif %}
+  </section>
+</div>
