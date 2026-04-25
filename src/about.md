@@ -8,13 +8,13 @@ date: 2026-04-25T00:00:00.000Z
 
 <p class="lang-switcher"><a href="#en">English</a> · <a href="#ja">日本語</a> · <a href="#vi">Tiếng Việt</a></p>
 
-<h5 id="en">English</h2>
+<h4 id="en">English</h2>
 
-The most formative parts of an education rarely fit on a transcript. They happen in the margins: in the conversations after class, in the projects that begin as side interests, in the studio, the field, the staffroom, the second language, the unfamiliar country. They happen in the slow accumulation of practice, doubt, revision, and care. Mass schooling, coursework, and research are scaffolds.
+The most formative parts of an education rarely fit on a transcript. They happen in the margins: in the conversations after class, in the projects that begin as side interests, in the studio, the field, the staffroom, the second language, the unfamiliar country. They happen in the slow accumulation of practice, doubt, revision, and care. Mass schooling, coursework, and research are just standardised scaffolds.
 
-The actual building of one's mind is something else.
+The actual building of a person's mind is something else, messier.
 
-This blog is a public record of that *something else*. A space to document projects, half-formed ideas, finished pieces, experiments that worked, and experiments that didn't, and, in time, to think out loud with colleagues whose pathways have also wound through and around the official ones.
+This blog is a public record of that *messy* *something else*. A space to document projects, half-formed ideas, finished pieces, experiments that worked, and experiments that didn't, and, in time, to think out loud with colleagues whose pathways have also wound through and around the official ones.
 
 ### Who's writing
 
@@ -42,7 +42,7 @@ The margin is wider when more of us are writing in it.
 
 <p class="lang-divider"><a href="#top">↑ Top</a></p>
 
-<h5 id="ja">日本語</h2>
+<h4 id="ja">日本語</h2>
 
 *教育のいちばん大事なところは、たぶん「余白」で起きている、という話。*
 
@@ -76,36 +76,38 @@ The margin is wider when more of us are writing in it.
 
 <p class="lang-divider"><a href="#top">↑ Top</a></p>
 
-<h5 id="vi">Tiếng Việt</h2>
+<h4 id="vi">Tiếng Việt</h2>
 
-*Về quan niệm rằng giáo dục thực sự diễn ra ở những lề bên.*
+*Về quan niệm rằng giáo dục, phần nhiều, diễn ra ở phần lề.*
 
-Những phần quan trọng nhất của một nền giáo dục hiếm khi nằm trên bảng điểm. Chúng diễn ra ở lề: trong những cuộc trò chuyện sau giờ học, trong những dự án bắt đầu chỉ như một mối quan tâm bên lề, trong xưởng vẽ, trên thực địa, trong phòng giáo viên, trong ngôn ngữ thứ hai, ở một đất nước xa lạ. Chúng diễn ra trong sự bồi đắp chậm rãi của thực hành, của hoài nghi, của sửa đi sửa lại, và của sự chăm chút. Trường lớp đại trà, các môn học chính khóa, và nghiên cứu, tất cả chỉ là giàn giáo.
+Những phần định hình nhất của một nền giáo dục hiếm khi lọt vừa vào bảng điểm. Chúng diễn ra ở phần lề: trong những cuộc trò chuyện sau giờ học, trong những dự án bắt đầu chỉ như mối quan tâm phụ, trong xưởng vẽ, trên thực địa, trong phòng giáo viên, trong ngôn ngữ thứ hai, ở một đất nước xa lạ. Chúng diễn ra trong sự bồi đắp chậm rãi của thực hành, của hoài nghi, của sửa đi sửa lại, và của sự chăm chút. Trường lớp đại trà, các môn học chính khóa, và nghiên cứu — tất cả chỉ là giàn giáo.
 
-Cái việc xây dựng nên một tâm trí, là chuyện khác.
+Việc thực sự xây nên một tâm trí, lại là chuyện khác.
 
-Blog này là một bản ghi chép công khai về cái *chuyện khác* ấy. Một không gian để lưu lại những dự án, những ý nghĩ còn dang dở, những bài đã viết xong, những thử nghiệm đã thành công, những thử nghiệm đã không thành — và, theo thời gian, để cùng nghĩ thành lời với những đồng nghiệp mà con đường của họ cũng đã uốn lượn quanh và xuyên qua những con đường chính thức.
+Blog này là một bản ghi chép công khai về chuyện khác ấy. Một không gian để lưu lại những dự án, những ý nghĩ còn dang dở, những bài đã viết xong, những thử nghiệm đã thành công, những thử nghiệm đã không thành và, theo thời gian, để cùng nghĩ thành lời với những đồng nghiệp mà con đường của họ cũng đã uốn lượn quanh và xuyên qua những con đường chính thức.
 
-### Người viết
+### **Người viết**
 
-Tôi là Ruby (Nguyễn Nhự Ngọc), một học giả người Việt đã sống một thập kỷ ở Nhật Bản, và hiện làm việc với tư cách nhà thiết kế học tập và giảng viên tại [Đại học Adelaide](https://researchers.adelaide.edu.au/profile/ruby-ngoc.nguyen) ở Úc, đồng thời là một nhà nghiên cứu mà công việc nằm ở giao điểm giữa phát triển học thuật, sư phạm đa phương thức, AI tạo sinh trong giáo dục, và những chiều kích cảm xúc của việc dạy và học. Tôi có bài đăng trên các tạp chí gồm *British Journal of Educational Technology*, *Higher Education Research & Development*, *Teaching in Higher Education*, và *Australasian Journal of Educational Technology*.
+Mình là Nguyễn Như Ngọc), một học giả người Việt đã sống một thập kỷ ở Nhật Bản, hiện làm việc với tư cách nhà thiết kế giáo dục và giảng viên tại [Đại học Adelaide](https://researchers.adelaide.edu.au/profile/ruby-ngoc.nguyen) ở Úc, đồng thời là một nhà nghiên cứu trong ngành nằm giữa phát triển học thuật, sư phạm đa phương thức, AI tạo sinh trong giáo dục, và những chiều kích cảm xúc của việc dạy và học. Nhiều bài viết đã đăng trên các tạp chí gồm British Journal of Educational Technology, Higher Education Research & Development, Teaching in Higher Education, và Australasian Journal of Educational Technology.
 
-Đó là bản phác thảo trang trọng. Bản đầy đủ thì nhiều lớp hơn. Tôi đã từng là giáo viên và trợ giảng, là người chấm bài và điều phối khóa học, ở cả Úc và Nhật. Tôi là một nhà nghiên cứu có công trình được công bố và một nghệ sĩ thị giác và dệt may đã từng triển lãm. Tôi làm việc với tư cách nhà phát triển học thuật, cố vấn cải cách đánh giá, người đồng hành cùng các sinh viên sư phạm đang đối mặt với lao động cảm xúc của kỳ thực tập, và là cộng sự trong các dự án về năng lực hiểu biết AI và đổi mới chương trình đào tạo giữa các cơ sở giáo dục. Tôi có một văn bằng về Tham vấn (Diploma of Counselling), điều này giúp tôi luôn nhớ rằng việc dạy học, suy cho cùng, là về con người. Tôi đã hướng dẫn hàng trăm sinh viên đại học qua những dự án nghiên cứu được dàn dựng theo từng tầng bậc, và tôi thiết kế các buổi tập huấn cùng tài liệu giúp giảng viên và đội ngũ giảng dạy làm việc một cách cẩn trọng với đánh giá có hỗ trợ AI, công nghệ giáo dục bao trùm, và thiết kế chương trình dựa trên bằng chứng.
+Trên giấy tờ là vậy; nhưng thực tế thì nhiều tầng lớp hơn. Mình từng làm trợ giảng, làm người chấm bài ở cả Úc và Nhật. Tôi là một nghệ sĩ làm việc với hình ảnh và sợi vải, đã có triển lãm. Tôi làm việc với tư cách nhà phát triển học thuật, cố vấn cải cách đánh giá, người đồng hành cùng các sinh viên sư phạm đang đối mặt với lao động cảm xúc của kỳ thực tập sư phạm, và là cộng sự trong các dự án về năng lực AI và đổi mới chương trình đào tạo giữa các cơ sở giáo dục. Tôi có một văn bằng Tham vấn (Diploma of Counselling) — điều giữ cho tôi luôn thành thật về việc dạy học, suy cho cùng, phần nhiều là về con người. Tôi đã hướng dẫn hàng trăm sinh viên đại học qua những dự án nghiên cứu được xây dựng theo từng tầng bậc, và tôi thiết kế các buổi tập huấn cùng tài liệu giúp giảng viên và đội ngũ giảng dạy làm việc một cách thấu đáo với đánh giá có hỗ trợ AI, công nghệ giáo dục bao trùm, và thiết kế chương trình dựa trên bằng chứng.
 
-Không một sợi chỉ nào trong số đó có thể tách rời khỏi những sợi khác. Con mắt của người nghệ sĩ hiện ra trong cách tôi thiết kế một trải nghiệm học tập. Sự đào tạo của một nhà tham vấn hiện ra trong cách tôi suy nghĩ về phản hồi. Kỷ luật của người làm nghiên cứu hiện ra trong cách tôi đánh giá một công cụ trước khi giới thiệu nó. Blog này, một phần, là nỗ lực để thôi giả vờ rằng những sợi chỉ ấy là tách biệt.
+Không một sợi chỉ nào trong số đó có thể tách rời khỏi những sợi khác. Con mắt của người nghệ sĩ hiện ra trong cách tôi thiết kế một trải nghiệm học tập. Vốn đào tạo của một nhà tham vấn hiện ra trong cách tôi suy nghĩ về phản hồi. Kỷ luật của người làm nghiên cứu hiện ra trong cách tôi đánh giá một công cụ trước khi giới thiệu nó. Blog này, một phần, là nỗ lực để thôi giả vờ rằng những sợi chỉ ấy là tách biệt.
 
-### Vì sao là lúc này
+### **Vì sao là bây giờ**
 
-Chúng ta đang sống qua một thời khắc mà câu hỏi *giáo dục là để làm gì?* đã không còn là một câu hỏi tu từ. AI tạo sinh có thể viết một bài luận tương đối tử tế trong vài giây. Nó có thể vượt qua các kỳ thi, viết mã, tóm tắt tài liệu, và bắt chước những đặc điểm bề mặt của sự thông thạo. Điều nó không thể làm là quyết định điều gì đáng để bận tâm. Nó không thể đồng hành cùng một sinh viên qua lần đầu đối diện với một tình huống đạo đức. Nó không thể mở ra một không gian an toàn cho một sinh viên sư phạm trải qua một kỳ thực tập khó khăn. Nó không thể làm gương cho việc trở thành một con người của thực hành, của lương tâm, của sự tò mò.
+Chúng ta đang sống qua một thời khắc mà câu hỏi *giáo dục là để làm gì?* đã không còn là một câu hỏi tu từ. AI tạo sinh có thể viết một bài luận tươm tất trong vài giây. Nó có thể vượt qua các kỳ thi, viết mã, tóm tắt tài liệu, và bắt chước những đặc điểm bề mặt của sự thông thạo. Điều nó không thể làm là quyết định điều gì đáng để bận tâm. Nó không thể đồng hành cùng một sinh viên qua lần đầu đối diện với một tình huống tiến thoái lưỡng nan về đạo đức. Nó không thể giữ một không gian an toàn cho một sinh viên sư phạm trải qua một kỳ thực tập khó khăn. Nó không thể làm gương cho việc trở thành một con người của thực hành, của lương tâm, của sự tò mò.
 
-Nếu có điều gì, thì khoảnh khắc này đã làm rõ những gì đang được đặt cược. Những phần của giáo dục mà *không thể* được tự động hóa, chính là những phần luôn luôn sống ở bên lề: những công việc đầy tính người, tính quan hệ, tính thân xác, tính đạo đức, tính sáng tạo — những công việc mà các thiết chế đôi khi công nhận, đôi khi không. Bảo vệ và phát triển những phần ấy, với tôi, dường như là công việc trung tâm của những người làm giáo dục hiện nay. Không phải kháng cự AI, mà là sử dụng nó một cách khôn ngoan, biết rõ nó để làm gì và không phải để làm gì, đồng thời bảo vệ và đào sâu tất cả những gì khiến một người thầy hơn cả một bộ máy phân phát nội dung, và một người học hơn cả một người đi thi.
+Nếu có điều gì, thì khoảnh khắc này đã làm rõ những gì đang được đặt cược. Những phần của giáo dục mà không thể được tự động hóa, chính là những phần luôn luôn sống ở bên lề: những công việc đầy tính người, tính quan hệ, tính thân xác, tính đạo đức, tính sáng tạo — những công việc mà các thiết chế đôi khi công nhận, đôi khi không. Bảo vệ và phát triển những phần ấy, với tôi, dường như là công việc trung tâm của những người làm giáo dục hiện nay. Không phải kháng cự AI, mà là sử dụng nó một cách khôn ngoan, biết rõ nó để làm gì và không phải để làm gì, đồng thời bảo vệ và đào sâu tất cả những gì khiến một người thầy hơn cả một bộ máy phân phát nội dung, và một người học hơn cả một người đi thi.
 
-### Những gì sẽ có ở đây
+### **Những gì có ở đây**
 
-Hãy chờ đợi một sự pha trộn. Những ghi chép từ những dự án đang tiến hành. Những suy ngẫm về cải cách đánh giá, phát triển học thuật, và những điều thực sự giúp đội ngũ giảng dạy lớn lên. Những bài viết về việc làm việc xuyên qua các nền văn hóa và các lĩnh vực. Những tin tức thi thoảng từ xưởng vẽ. Những ghi chép thành thật về những điều tôi vẫn còn đang loay hoay tìm hiểu. Và tôi hy vọng, những bài viết chung với những đồng nghiệp mà tiếng nói của họ thuộc về nơi này. Những người làm giáo dục lớn lên cùng nhau. Điều đó luôn đúng, và chưa bao giờ quan trọng hơn lúc này.
+Sẽ là một sự pha trộn. Những ghi chép từ những dự án đang tiến hành. Những suy ngẫm về cải cách đánh giá, phát triển học thuật, và những điều thực sự giúp đội ngũ giảng dạy trưởng thành. Những bài viết về việc làm xuyên qua các nền văn hóa và các lĩnh vực. Những lời nhắn thi thoảng từ xưởng vẽ. Những ghi chép thành thật về những điều tôi vẫn còn đang loay hoay tìm hiểu. Và tôi hy vọng, những bài viết chung với những đồng nghiệp mà tiếng nói của họ cũng thuộc về nơi này. Những người làm giáo dục nuôi dưỡng nhau trưởng thành. Điều đó luôn đúng, và chưa bao giờ quan trọng hơn lúc này.
 
 Nếu có điều gì ở đây cộng hưởng với bạn, hoặc đi ngược lại điều bạn đang làm, hoặc khơi lên một ý tưởng đáng theo đuổi, tôi thực sự muốn được nghe về nó.
 
 Lề rộng hơn khi có nhiều người trong chúng ta cùng viết vào đó.
+
+
 
 <p class="lang-divider"><a href="#top">↑ Top</a></p>
