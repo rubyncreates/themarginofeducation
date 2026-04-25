@@ -1,0 +1,32 @@
+---
+layout: base.njk
+title: Mind &mdash; The Margin of Education
+permalink: /mind/
+---
+<div class="container container--narrow">
+  <section class="category-intro">
+    <p class="category-eyebrow">Category</p>
+    <h1 class="category-headline">Mind</h1>
+    <p class="category-lede">The inner work of learning. Attention, care, doubt, growth. The affective dimensions of teaching. How learners think and feel and struggle, and what teachers can do at the edges of that.</p>
+  </section>
+
+  <section class="post-list">
+    <h2 class="post-list-heading"><span>Posts in Mind</span></h2>
+    {% set postslist = collections.mind | reverse %}
+    {% if postslist.length === 0 %}
+      <p class="empty-state">No posts in this category yet.</p>
+    {% else %}
+      <ol class="posts">
+        {% for post in postslist %}
+          <li class="post-item">
+            <a href="{{ post.url }}" class="post-link">
+              <time datetime="{{ post.date | htmlDateString }}" class="post-item-date">{{ post.date | readableDate }}</time>
+              <h3 class="post-item-title">{{ post.data.title }}</h3>
+              {% if post.data.subtitle %}<p class="post-item-subtitle">{{ post.data.subtitle }}</p>{% endif %}
+            </a>
+          </li>
+        {% endfor %}
+      </ol>
+    {% endif %}
+  </section>
+</div>
