@@ -500,3 +500,26 @@ main {
     margin: 1.5rem 0;
   }
 }
+/* Portrait-specific image sizing for left-float */
+.img-portrait.img-left,
+.img-portrait.img-right {
+  max-width: 220px;
+  width: 35%;
+  margin-top: 0.5rem;
+  margin-bottom: 0.75rem;
+}
+
+/* Disable drop cap on paragraphs that contain a floated image alongside */
+.post-content .no-dropcap::first-letter {
+  font-size: inherit;
+  font-weight: inherit;
+  float: none;
+  margin: 0;
+  color: inherit;
+  line-height: inherit;
+}
+
+/* Tighten line-height slightly for paragraphs wrapping a floated image */
+.post-content .no-dropcap {
+  line-height: 1.7;
+}
