@@ -17,7 +17,7 @@ title: The Margin of Education
       <p class="empty-state">No posts yet &mdash; but soon.</p>
     {% else %}
       <ol class="posts">
-        {% for post in postslist | slice(6) %}
+        {% for post in postslist %}
           <li class="post-item">
             <a href="{{ post.url }}" class="post-link">
               <time datetime="{{ post.date | htmlDateString }}" class="post-item-date">{{ post.date | readableDate }}</time>
