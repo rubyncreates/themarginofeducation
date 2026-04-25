@@ -4,7 +4,7 @@ permalink: /about/
 layout: post.njk
 date: 2026-04-25T00:00:00.000Z
 ---
-<meta name="google-site-verification" content="D3mNQ0k9V6DBLQuJXWDXIWIGvmN51HZ7Ih4zblxHxHk" />
+<head> <meta name="google-site-verification" content="D3mNQ0k9V6DBLQuJXWDXIWIGvmN51HZ7Ih4zblxHxHk" />
 
 *Margin of education articulates the idea that one's education happens mostly in the margins.*
 
