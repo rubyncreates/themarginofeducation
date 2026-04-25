@@ -1,5 +1,5 @@
 ---
-title: About Ruby
+title: About
 permalink: /about/
 layout: post.njk
 date: 2026-04-25
