@@ -8,8 +8,6 @@ date: 2026-04-25T00:00:00.000Z
 
 <p class="lang-switcher"><a href="#en">English</a> · <a href="#ja">日本語</a> · <a href="#vi">Tiếng Việt</a></p>
 
-<h4 id="en">English</h2>
-
 The most formative parts of an education rarely fit on a transcript. They happen in the margins: in the conversations after class, in the projects that begin as side interests, in the studio, the field, the staffroom, the second language, the unfamiliar country. They happen in the slow accumulation of practice, doubt, revision, and care. Mass schooling, coursework, and research are just standardised scaffolds.
 
 The actual building of a person's mind is something else, messier.
@@ -42,7 +40,7 @@ The margin is wider when more of us are writing in it.
 
 <p class="lang-divider"><a href="#top">↑ Top</a></p>
 
-<h4 id="ja">日本語</h2>
+<h4 id="ja">(日本語)</h2>
 
 *教育のいちばん大事なところは、たぶん「余白」で起きている、という話。*
 
@@ -78,7 +76,7 @@ The margin is wider when more of us are writing in it.
 
 <p class="lang-divider"><a href="#top">↑ Top</a></p>
 
-<h4 id="vi">Tiếng Việt</h2>
+<h4 id="vi">(Tiếng Việt)</h2>
 
 *Về quan niệm rằng giáo dục, phần nhiều, diễn ra ở phần lề.*
 
