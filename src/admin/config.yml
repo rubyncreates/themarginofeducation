@@ -1,25 +1,4 @@
-backend:
-  name: git-gateway
-  branch: main
-
-media_folder: "src/assets/images"
-public_folder: "/assets/images"
-
-collections:
-  - name: "posts"
-    label: "Blog Posts"
-    folder: "src/posts"
-    create: true
-    slug: "{{slug}}"
-    extension: "md"
-    format: "frontmatter"
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Subtitle", name: "subtitle", widget: "string", required: false }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Body", name: "body", widget: "markdown" }
-
-  - name: "pages"
+- name: "pages"
     label: "Pages"
     files:
       - label: "About Page"
@@ -28,5 +7,6 @@ collections:
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Permalink", name: "permalink", widget: "hidden", default: "/about/" }
-          - { label: "Layout", name: "layout", widget: "hidden", default: "base.njk" }
+          - { label: "Layout", name: "layout", widget: "hidden", default: "post.njk" }
+          - { label: "Date", name: "date", widget: "hidden", default: "2026-04-25" }
           - { label: "Body", name: "body", widget: "markdown" }
