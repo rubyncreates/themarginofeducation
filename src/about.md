@@ -6,14 +6,17 @@ date: 2026-04-25T00:00:00.000Z
 ---
 *On the idea that an education happens mostly in the margins.*
 
-<img src="/assets/images/self-photo.jpg" alt="Portrait of Ruby" class="img-left img-portrait">
-<p class="no-dropcap">The most formative parts of an education rarely fit on a transcript. They happen in the margins: in the conversations after class, in the projects that begin as side interests, in the studio, the field, the staffroom, the second language, the unfamiliar country. They happen in the slow accumulation of practice, doubt, revision, and care. Mass schooling, coursework, and research are scaffolds.</p>
+The most formative parts of an education rarely fit on a transcript. They happen in the margins: in the conversations after class, in the projects that begin as side interests, in the studio, the field, the staffroom, the second language, the unfamiliar country. They happen in the slow accumulation of practice, doubt, revision, and care. Mass schooling, coursework, and research are scaffolds.</p>
 
 The actual building of one's mind is something else.
 
 This blog is a public record of that *something else*. A space to document projects, half-formed ideas, finished pieces, experiments that worked, and experiments that didn't and, in time, to think out loud with colleagues whose pathways have also wound through and around the official ones.
 
 ## Who's writing
+
+<img src="/assets/images/self-photo.jpg" alt="Portrait of Ruby" style="float: left; width: 220px; max-width: 35%; margin: 0.5rem 1.75rem 1rem 0; border-radius: 2px; box-shadow: 0 4px 24px rgba(26, 24, 20, 0.08);">
+
+I'm Ruby (Ngoc Nhu Nguyen), a Viet scholar who lived a decade in Japan, and now am working as a learning designer and lecturer at [Adelaide University](https://researchers.adelaide.edu.au/profile/ruby-ngoc.nguyen) (Australia)...
 
 I'm Ruby (Ngoc Nhu Nguyen), a Viet scholar who lived a decade in Japan, and now am working as a learning designer and lecturer at [Adelaide University](https://researchers.adelaide.edu.au/profile/ruby-ngoc.nguyen) (Australia) and a researcher whose work sits at the intersection of academic development, multimodal pedagogy, generative AI in education, and the affective dimensions of teaching and learning. I publish in journals including the *British Journal of Educational Technology*, *Higher Education Research & Development*, *Teaching in Higher Education*, and the *Australasian Journal of Educational Technology.*
 
