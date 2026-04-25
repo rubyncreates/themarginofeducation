@@ -1,12 +1,35 @@
-- name: "pages"
+backend:
+  name: github
+  repo: rubyncreates/themarginofeducation
+  branch: main
+  base_url: https://decap-proxy.rubyncreates.workers.dev
+  auth_endpoint: auth
+
+media_folder: "src/assets/images"
+public_folder: "/assets/images"
+
+collections:
+  - name: "posts"
+    label: "Blog Posts"
+    folder: "src/posts"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Subtitle", name: "subtitle", widget: "string", required: false }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "pages"
     label: "Pages"
     files:
       - label: "About Page"
         name: "about"
-        file: "src/about.md"
+        file: "src/about.njk"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Permalink", name: "permalink", widget: "hidden", default: "/about/" }
-          - { label: "Layout", name: "layout", widget: "hidden", default: "post.njk" }
-          - { label: "Date", name: "date", widget: "hidden", default: "2026-04-25" }
+          - { label: "Layout", name: "layout", widget: "hidden", default: "base.njk" }
           - { label: "Body", name: "body", widget: "markdown" }
