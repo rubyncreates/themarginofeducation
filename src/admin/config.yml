@@ -24,7 +24,7 @@ collections:
     files:
       - label: "About Page"
         name: "about"
-        file: "src/about.njk"
+        file: "src/about.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Permalink", name: "permalink", widget: "hidden", default: "/about/" }
