@@ -1,7 +1,8 @@
 ---
+layout: post.njk
 title: About
 permalink: /about/
-layout: base.njk
+date: 2026-04-25
 ---
 ![](/assets/images/self-photo.jpg)
 
