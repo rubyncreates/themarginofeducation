@@ -7,14 +7,30 @@ layout: base.njk
       <time datetime="{{ date | htmlDateString }}" class="post-date">{{ date | readableDate }}</time>
       <h1 class="post-title">{{ title }}</h1>
       {% if subtitle %}<p class="post-subtitle">{{ subtitle }}</p>{% endif %}
+      {% if category and not hide_category %}
+        <p class="post-category-label"><a href="/{{ category | lower }}/">{{ category }}</a></p>
+      {% endif %}
     </header>
 
-    <div class="post-content">
+    <div class="post-content {% if portrait %}has-portrait{% endif %}">
+      {% if portrait %}
+        <img src="{{ portrait }}" alt="{{ portrait_caption or title }}" class="author-portrait">
+      {% endif %}
       {{ content | safe }}
     </div>
 
+    {% if tags and tags.length > 0 %}
+      <div class="post-tags">
+        {% for tag in tags %}
+          {% if tag != "posts" and tag != "mind" and tag != "media" and tag != "machines" %}
+            <span class="post-tag">{{ tag }}</span>
+          {% endif %}
+        {% endfor %}
+      </div>
+    {% endif %}
+
     <footer class="post-footer">
-      <a href="/" class="back-link">← Back to all writing</a>
+      <a href="/" class="back-link">&larr; Back to all writing</a>
     </footer>
   </div>
 </article>
