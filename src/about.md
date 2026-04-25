@@ -3,6 +3,8 @@ title: About
 permalink: /about/
 layout: base.njk
 ---
+![](/assets/images/self-photo.jpg)
+
 *On the idea that an education happens mostly in the margins.*
 
 The most formative parts of an education rarely fit on a transcript. They happen in the margins: in the conversations after class, in the projects that begin as side interests, in the studio, the field, the staffroom, the second language, the unfamiliar country. They happen in the slow accumulation of practice, doubt, revision, and care. Mass schooling, coursework, and research are scaffolds. 
