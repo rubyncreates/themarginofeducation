@@ -27,9 +27,10 @@ collections:
     files:
       - label: "About Page"
         name: "about"
-        file: "src/about.njk"
+        file: "src/about.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Permalink", name: "permalink", widget: "hidden", default: "/about/" }
-          - { label: "Layout", name: "layout", widget: "hidden", default: "base.njk" }
+          - { label: "Layout", name: "layout", widget: "hidden", default: "post.njk" }
+          - { label: "Date", name: "date", widget: "hidden", default: "2026-04-25" }
           - { label: "Body", name: "body", widget: "markdown" }
