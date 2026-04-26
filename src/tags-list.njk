@@ -1,0 +1,33 @@
+---
+layout: base.njk
+title: All tags — The Margin of Education
+permalink: /tags/
+---
+<div class="container container--narrow">
+  <section class="category-intro">
+    <p class="category-eyebrow">Index</p>
+    <h1 class="category-headline">Tags</h1>
+    <p class="category-lede">Browse all the threads running through the writing here. Each tag pulls together posts that share a concern, a method, a question, or a feeling.</p>
+  </section>
+
+  <section class="tags-cloud">
+    {% set excludedTags = ["all", "nav", "post", "posts", "mind", "media", "machines"] %}
+    {% set allTags = collections | getAllTags %}
+    {% if allTags %}
+      <ul class="tag-cloud-list">
+      {% for tag in allTags %}
+        {% if excludedTags.indexOf(tag) === -1 %}
+          <li>
+            <a href="/tags/{{ tag | slug }}/" class="tag-cloud-link">
+              <span class="tag-cloud-label">{{ tag }}</span>
+              <span class="tag-cloud-count">{{ collections[tag].length }}</span>
+            </a>
+          </li>
+        {% endif %}
+      {% endfor %}
+      </ul>
+    {% else %}
+      <p class="empty-state">No tags yet — they'll appear here as posts are added.</p>
+    {% endif %}
+  </section>
+</div>
