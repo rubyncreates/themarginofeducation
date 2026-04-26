@@ -10,23 +10,6 @@ tags:
 ---
 ![](/assets/images/razi-pouri-71gjp4herr8-unsplash.jpg)
 
-- - -
-
-title: "What We Forget to Remember"
-description: "On opening Mind with love — the curse of expertise, what an AI cannot replace, and the long apprenticeship of caring."
-date: 2026-04-26
-category: mind
-tags:
-
-* love
-* pedagogy
-* neuroscience
-* ai-in-education
-* affective-pedagogy
-* film-and-learning
-
-- - -
-
 There is something faintly improper about opening *Mind* with love. Mind, we are told, is the cool gallery of judgement; love, the kitchen where the dishes pile up. And yet [the neuroscience does not quite oblige](https://thedecisionlab.com/reference-guide/psychology/somatic-marker-hypothesis): Damasio's patients, who can no longer feel their way through a decision, keep showing us that emotion is not the noisy lodger keeping reason awake; rather, it is reason's first, most reliable correspondent. Without it, we cannot decide. Without it, we cannot care. Without it, we cannot, in any honest sense, learn. 
 
 I have been thinking about a particular forgetting that befalls educators — a forgetting so common we mistake it for maturity. Most of us came into our research niches in love. Some line of inquiry once made us late to dinner; some question kept us up reading on a Tuesday with our shoes still on. Then the years arrive, and with them the immediate tasks that gather like weeds: marking, meetings, accreditation, the small administrative humiliations. The cognitive load rises; the love retreats to a back drawer. Soon we are producing teaching artefacts that are surface-level, technical, or quietly condescending, because we have crossed that strange invisible line where what once dazzled us is now merely *ours*, and we begin to mistake our familiarity for our students' tedium. [The curse of expertise](https://en.wikipedia.org/wiki/Curse_of_knowledge), it turns out, is forgetting how strange the world looked before we understood it.
