@@ -1,0 +1,48 @@
+---
+pagination:
+  data: collections
+  size: 1
+  alias: tag
+  filter:
+    - all
+    - nav
+    - post
+    - posts
+    - mind
+    - media
+    - machines
+permalink: /tags/{{ tag | slug }}/
+layout: base.njk
+eleventyComputed:
+  title: "Tag: {{ tag }} — The Margin of Education"
+---
+<div class="container container--narrow">
+  <section class="category-intro">
+    <p class="category-eyebrow">Tag</p>
+    <h1 class="category-headline">{{ tag }}</h1>
+    <p class="category-lede">Posts tagged with <em>{{ tag }}</em>.</p>
+  </section>
+
+  <section class="post-list">
+    <h2 class="post-list-heading"><span>Posts</span></h2>
+    {% set tagPosts = collections[tag] | reverse %}
+    {% if tagPosts.length === 0 %}
+      <p class="empty-state">No posts found.</p>
+    {% else %}
+      <ol class="posts">
+        {% for post in tagPosts %}
+          <li class="post-item">
+            <a href="{{ post.url }}" class="post-link">
+              <time datetime="{{ post.date | htmlDateString }}" class="post-item-date">{{ post.date | readableDate }}</time>
+              <h3 class="post-item-title">{{ post.data.title }}</h3>
+              {% if post.data.subtitle %}<p class="post-item-subtitle">{{ post.data.subtitle }}</p>{% endif %}
+              {% if post.data.category %}<p class="post-item-category">{{ post.data.category }}</p>{% endif %}
+            </a>
+          </li>
+        {% endfor %}
+      </ol>
+    {% endif %}
+
+    <p class="back-to-tags"><a href="/tags/">← All tags</a></p>
+  </section>
+</div>
