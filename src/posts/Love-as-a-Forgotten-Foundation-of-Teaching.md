@@ -39,3 +39,4 @@ And yet this is not really an essay about teaching. It is an essay about *not* f
 * hooks, b. (2003). *Teaching Community: A Pedagogy of Hope.* Routledge.
 * Shiva, V., in Black, C. (2010). *Schooling the World: The White Man's Last Burden.* \[Documentary film].
 * Mitra, S. (2013). *Build a School in the Cloud.* TED.
+* Image credit: Photo by <a href="https://unsplash.com/@razipourjafari?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">razi pouri</a> on <a href="https://unsplash.com/photos/an-older-woman-is-knitting-a-piece-of-cloth-71GJP4heRr8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
