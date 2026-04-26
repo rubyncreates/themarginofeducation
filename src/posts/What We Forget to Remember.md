@@ -1,5 +1,5 @@
 ---
-title: What We Forget to Remember
+title: Love as a Forgotten Foundation of Teaching
 subtitle: On opening Mind with love — the curse of expertise, what an AI cannot
   replace, and the long apprenticeship of caring.
 date: 2026-04-26T15:00:00.000+09:30
