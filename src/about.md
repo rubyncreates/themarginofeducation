@@ -38,7 +38,7 @@ Expect a mix. Notes from projects in progress. Reflections on assessment reform,
 
 If something here resonates, or contradicts something you're working on, or sparks an idea worth following, I'd genuinely like to hear about it.
 
-The margin is wider when more of us are writing in it.
+The margin is wider when more of us are writing in it.  Feel free to share your thoughts to [rubyncreates@gmail.com] (rubyncreates@gmail.com). 
 
 <p class="lang-divider"><a href="#top">↑ Top</a></p>
 
@@ -74,7 +74,7 @@ The margin is wider when more of us are writing in it.
 
 ここに書かれていることが、あなたの中の何かに響いたり、あなたが取り組んでいることと食いちがったり、追いかけてみたくなる考えに火をつけたりしたなら、どうかひとこと知らせてほしい。
 
-余白は、書く人がふえるほど、広くなっていく。
+余白は、書く人がふえるほど、広くなっていく。お気軽にご意見をお聞かせください: [rubyncreates@gmail.com] (rubyncreates@gmail.com)
 
 <p class="lang-divider"><a href="#top">↑ Top</a></p>
 
@@ -110,6 +110,6 @@ Sẽ là một sự pha trộn. Những ghi chép từ những dự án đang ti
 
 Nếu có điều gì ở đây cộng hưởng với bạn, hoặc đi ngược lại điều bạn đang làm, hoặc khơi lên một ý tưởng đáng theo đuổi, tôi thực sự muốn được nghe về nó.
 
-Lề rộng hơn khi có nhiều người trong chúng ta cùng viết vào đó.
+Lề rộng hơn khi có nhiều người trong chúng ta cùng viết vào đó. Chia sẻ suy nghĩ với mình tại: [rubyncreates@gmail.com] (rubyncreates@gmail.com)
 
 <p class="lang-divider"><a href="#top">↑ Top</a></p>
