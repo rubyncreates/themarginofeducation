@@ -7,6 +7,11 @@ category: Mind
 tags:
   - mind
   - beginnings
+  - posts
+  - love
+  - affective-pedagogy
+  - AI-in-education
+  - intergenerational-learning
 ---
 ![](/assets/images/razi-pouri-71gjp4herr8-unsplash.jpg)
 
