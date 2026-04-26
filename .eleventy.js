@@ -4,7 +4,10 @@ module.exports = function(eleventyConfig) {
 
   // Copy admin folder (Decap CMS) to output
   eleventyConfig.addPassthroughCopy("src/admin");
-
+  
+  // Copy robots.txt to output
+eleventyConfig.addPassthroughCopy("src/robots.txt");
+  
   // Format dates nicely
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     const options = { year: 'numeric', month: 'long', day: 'numeric' };
