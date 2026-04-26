@@ -756,3 +756,39 @@ a.post-tag:hover {
 .back-to-tags a:hover {
   color: var(--accent);
 }
+/* ---- Publications list ---- */
+.publications {
+  margin-bottom: clamp(2rem, 4vw, 3rem);
+  padding-bottom: clamp(2rem, 4vw, 3rem);
+  border-bottom: 1px solid var(--rule);
+}
+
+.publications-list {
+  list-style: none;
+  padding: 0;
+}
+
+.publication-item {
+  font-family: var(--serif);
+  font-size: 1rem;
+  line-height: 1.65;
+  color: var(--ink-soft);
+  padding: 1.25rem 0;
+  border-bottom: 1px solid var(--rule);
+}
+
+.publication-item:last-child {
+  border-bottom: none;
+}
+
+.publication-item a {
+  color: var(--accent);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  transition: color 0.15s ease;
+}
+
+.publication-item a:hover {
+  color: var(--accent-soft);
+}
