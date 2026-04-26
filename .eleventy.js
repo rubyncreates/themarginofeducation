@@ -1,3 +1,8 @@
+const pluginRss = require("@11ty/eleventy-plugin-rss");
+
+module.exports = function(eleventyConfig) {
+  eleventyConfig.addPlugin(pluginRss);
+  
 module.exports = function(eleventyConfig) {
   // Copy assets folder to output
   eleventyConfig.addPassthroughCopy("src/assets");
