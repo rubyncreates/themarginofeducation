@@ -21,9 +21,10 @@ layout: base.njk
 
     {% if tags and tags.length > 0 %}
       <div class="post-tags">
+        <span class="post-tags-label">Tagged:</span>
         {% for tag in tags %}
           {% if tag != "posts" and tag != "mind" and tag != "media" and tag != "machines" %}
-            <span class="post-tag">{{ tag }}</span>
+            <a href="/tags/{{ tag | slug }}/" class="post-tag">{{ tag }}</a>
           {% endif %}
         {% endfor %}
       </div>
