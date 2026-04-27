@@ -10,6 +10,7 @@ tags:
   - black-mirror
   - speculative-media
   - machines
+  - media
 ---
 ![](/assets/images/thomas-marquize-bkhxjhwzn10-unsplash.jpg)
 
