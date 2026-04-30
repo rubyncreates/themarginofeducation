@@ -3,7 +3,12 @@ title: Cue the Sun
 subtitle: The Truman Show, the assessment crisis, and the illusions AI keeps unstaging
 date: 2026-04-30T20:59:00.000+09:30
 category: Media
-tags: []
+tags:
+  - GenerativeAI
+  - Machines
+  - TheTrumanShow
+  - IllusionOfEducation
+  - AIandAssessment
 ---
 
 
